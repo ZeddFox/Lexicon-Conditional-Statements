@@ -1,7 +1,9 @@
 1. Purpose
+   
 Write business logic using conditional statements.
 
-2. Theory
+3. Theory
+   
 We have used the ternary operator for conditional logic. Now we will start
 using if statements and switch statements. You might use one of these
 statements for solving all your conditional logic, but after a while you
@@ -9,7 +11,8 @@ might develop a feel for when one is better than the other. You can use the
 ternary operator inside if and switch statements with good results, but
 rarely combine if and switch statements.
 
-3. Assignments
+5. Assignments
+   
 Try to finish these four assignments during the day. Still, you have until
 Friday lunch to hand them in. Upload your solutions to GitHub and share
 the repository URL.
